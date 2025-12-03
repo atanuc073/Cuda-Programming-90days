@@ -48,12 +48,12 @@ __global__ void blur_kernel(unsigned char* image, unsigned char* blurred, unsign
         // blurred[outRow * width + outCol] = (unsigned char)(average / divisor);
     }
 }
-// Corrected Host Function
+
 void blur_gpu(unsigned char* image, unsigned char* blurred, unsigned int width, unsigned int height) {
     unsigned char *image_d, *blurred_d;
     size_t size = (size_t)width * height * sizeof(unsigned char);
 
-    // 1. Allocate GPU Memory
+    // Allocate GPU Memory
     checkCudaErrors(cudaMalloc((void**) &image_d, size));
     checkCudaErrors(cudaMalloc((void**) &blurred_d, size));
     
@@ -79,3 +79,4 @@ void blur_gpu(unsigned char* image, unsigned char* blurred, unsigned int width, 
     checkCudaErrors(cudaFree(image_d));
     checkCudaErrors(cudaFree(blurred_d));
 }
+
