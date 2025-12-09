@@ -1,0 +1,7 @@
+Neural network in C from scratch
+https://www.youtube.com/@guraku
+CUDA Programming Course – High-Performance Computing with GPUs freecode camp
+https://www.youtube.com/watch?v=86FAWCzIe_4&t=8903s
+
+https://www.youtube.com/watch?v=cvo3gnInQ7M&list=PL1ysOEBe5977vlocXuRt6KBCYu_sdu1Ru
+
