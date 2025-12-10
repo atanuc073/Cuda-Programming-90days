@@ -1,5 +1,7 @@
 Programming Massively Parallel Processors 
 https://www.youtube.com/watch?v=4pkbXmE4POc&list=PLRRuQYjFhpmubuwx-w8X964ofVkW1T8O4
+NPTEL COURSE ON GPU PROGRAMMING AND ARCHITECTURE
+https://www.youtube.com/watch?v=GOam2jFb700&list=PLbRMhDVUMngfj_NXI7jqMYLnhcRhRKAGq
 
 Neural network in C from scratch
 https://www.youtube.com/@guraku
@@ -7,5 +9,6 @@ CUDA Programming Course – High-Performance Computing with GPUs freecode camp
 https://www.youtube.com/watch?v=86FAWCzIe_4&t=8903s
 
 https://www.youtube.com/watch?v=cvo3gnInQ7M&list=PL1ysOEBe5977vlocXuRt6KBCYu_sdu1Ru
+
 
 
